@@ -19,7 +19,7 @@ public class CheckIsDisplayed {
 		//2nd way
 if(ErrorMSG.isDisplayed())
 {
-	System.out.println("Validation is coming");
+	System.out.println("Validation is coming");//try to find out this line in github
 	
 }else
 {
